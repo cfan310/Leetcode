@@ -123,3 +123,5 @@ const height = 12;
 const area = length * width;
 
 console.log(area);
+
+// LC js down today
