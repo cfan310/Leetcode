@@ -46,7 +46,7 @@ OR
 Brandon is a youth and registered at
 ${time}.
 
-const runnerName = ''; 
+const runnerName = ''; // global
 
 let raceNumber = Math.floor(Math.random() * 1000);
 
